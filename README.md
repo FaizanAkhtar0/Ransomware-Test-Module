@@ -8,7 +8,7 @@ STEPS:
 4) python main.py
 
 
-WELCOME TO TEST VERSION OF DUMMY RANSOMWARE PROJECT
+# WELCOME TO TEST VERSION OF DUMMY RANSOMWARE PROJECT
 
 Given:
 ransomware_test.exe
@@ -39,8 +39,8 @@ General INFO!!!
 
 POSSIBLE SOLUTIONS!!!
 1) Try a recovery software on "Local_root" folder to see if you can get back your files.
-	1.1) Even if you recover them, it'd be of no use 'cuz they are shredded. Means It's data was overwriten multiple times before encryption.
-	1.2) So this means you won't be getting your data back even if you recover the files.
+	=> Even if you recover them, it'd be of no use 'cuz they are shredded. Means It's data was overwriten multiple times before encryption.
+	=> So this means you won't be getting your data back even if you recover the files.
 2) Try reverse engineering to see if you can find some overlooked weakness that can help you decrypt your files. :)
 
 
